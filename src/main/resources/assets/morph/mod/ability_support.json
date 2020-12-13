@@ -2078,7 +2078,10 @@
     "hostile"
   ],
   "net.minecraft.entity.passive.EntityBat": [
-    "flightFlap"
+    "fly|false"
+  ],
+  "net.minecraft.entity.passive.EntityParrot": [
+    "fly|false"
   ],
   "net.minecraft.entity.monster.EntitySilverfish": [
     "hostile"
