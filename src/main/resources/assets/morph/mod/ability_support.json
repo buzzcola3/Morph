@@ -2063,7 +2063,8 @@
   ],
   "net.minecraft.entity.monster.EntityEnderman": [
     "waterAllergy",
-    "hostile"
+    "hostile",
+    "teleport"
   ],
   "net.minecraft.entity.monster.EntitySpider": [
     "climb",
